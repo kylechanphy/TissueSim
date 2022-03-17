@@ -1,0 +1,4 @@
+name = "TissueSim"
+uuid = "b0d0070b-cc6f-49eb-931b-be6b62de8c33"
+authors = ["Kyle Chan <kylewingchan@gmail.com>"]
+version = "0.1.0"
